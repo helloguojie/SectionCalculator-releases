@@ -1,7 +1,11 @@
 {
   "status": "active",
   "message": "",
-  "min_allowed": null,
-  "revoked": [],
+  "default_control": "none",
+  "controls": {
+    "4.1.0": {
+      "level": "none"
+    }
+  },
   "messages": {}
 }
