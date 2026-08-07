@@ -4,7 +4,7 @@
   "default_control": "none",
   "controls": {
     "4.1.0": {
-      "level": "none"
+      "level": "block"
     }
   },
   "messages": {}
